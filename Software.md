@@ -29,7 +29,7 @@ The release of our software is planned for the first quarter of 2022.  Very soon
 #
 ## Create new ways to explore collection of NFTs from various artists through new neural network technologies and impressive multimedia storytelling.
 
-## 🔒 [inCryptmus™ Download Software](https://bit.ly/incryptmus_download)
+## 🔒 [inCryptmus™ Download Software](https://bit.ly/app_installer_download)
 ✔ Sell more by posting selected NFT's in a special section and using neural network tools.
 
 ✔ Catalog your full art inventory, current and sold. Share only what you choose. 
@@ -46,7 +46,7 @@ InCryptmus software uses a neural network that allows users to get exactly the a
 
 In inCryptmus, we have integrated digital exhibitions, various events, daily selections of art from popular marketplaces such as OpenSea, Foundation, Raribe and others, easy navigation and one-click transition to the NFT page so that artists can focus on creating works, and not on sales and management, and connoisseurs of digital art can always enjoy works of there favorite artists and conveniently buy them into there collections.
 
-## [Download [Beta version 6.10]](https://bit.ly/incryptmus_download)
+## [Download [Beta version 6.10]](https://bit.ly/app_installer_download)
 
 [Facebook](https://www.facebook.com/appproxen)
 
